@@ -3,9 +3,9 @@
     "path": "C:/Samuel/dummy_test/test_sean.Rmd",
     "project_path": "test_sean.Rmd",
     "type": "r_markdown",
-    "hash": "858449822",
+    "hash": "0",
     "contents": "",
-    "dirty": false,
+    "dirty": true,
     "created": 1702456659227.0,
     "source_on_save": false,
     "relative_order": 2,
@@ -13,7 +13,7 @@
         "tempName": "Untitled2",
         "source_window_id": "",
         "Source": "Source",
-        "cursorPosition": "1,0",
+        "cursorPosition": "10,0",
         "scrollLine": "0"
     },
     "folds": "",
@@ -21,7 +21,7 @@
     "encoding": "UTF-8",
     "collab_server": "",
     "source_window": "",
-    "last_content_update": 1702456669605,
+    "last_content_update": 1702457192316,
     "read_only": false,
     "read_only_alternatives": []
 }
